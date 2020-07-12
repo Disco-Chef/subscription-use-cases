@@ -11,7 +11,7 @@ composer.lock
 
 # Ruby files
 Gemfile.lock
-
+server/.env
 # Python files
 __pycache__
 venv
